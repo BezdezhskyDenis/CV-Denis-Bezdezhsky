@@ -4,7 +4,7 @@ body {
 }
 .welcome {
   background: linear-gradient(rgba(28, 28, 29, 0), rgba(28, 28, 29, 0)),
-    url("images/welcome.jpg") center center / cover no-repeat;
+    url("./images/welcome.jpg") center center / cover no-repeat;
   padding: 0px 0px 150px;
   flex-direction: column;
   min-height: auto;
